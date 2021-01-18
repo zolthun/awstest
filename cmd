@@ -26,5 +26,4 @@ chmod 700 get_helm.sh
 
 tmp-creds
 #########
-AKIASGGWHDXBRFSVQZF5
-N0toJELWxVWukUhni8SzDnIxE8mT55qd3ruQWqEv
+
